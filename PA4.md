@@ -1,5 +1,6 @@
 
-# PA4 - 虚实交错的魔法: 分时多任务
+<!-- # PA4 - 虚实交错的魔法: 分时多任务 -->
+# PA4 - The magic of reality and fiction: Time-sharing multitasking
 
 > #### flag::世界诞生的故事 - 第四章
 > 先驱已经创造了一个足够强大的计算机, 甚至能支撑操作系统和真实应用程序的运行.
