@@ -1,4 +1,5 @@
-# git快速入门
+<!-- # git快速入门 -->
+# Git Getting Started Tutorial
 
 ## 光玉
 
@@ -41,7 +42,7 @@ git init
 ```
 git log
 ```
-查看目前为止所有的存档. 
+查看目前为止所有的存档.
 
 使用
 ```

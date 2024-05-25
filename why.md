@@ -1,5 +1,6 @@
 
-## 为什么要学习计算机系统基础
+<!-- ## 为什么要学习计算机系统基础 -->
+## Why learn the basics of computer system
 
 ### 一知半解
 
