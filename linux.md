@@ -1,5 +1,6 @@
 
-# Linux入门教程
+<!-- # Linux入门教程 -->
+# Linux Getting Started Tutorial
 
 以下内容引用自jyy的操作系统实验课程网站, 并有少量修改和补充.
 如果你是第一次使用Linux, 请你一边仔细阅读教程, 一边尝试运行教程中提到的命令.

@@ -1,4 +1,5 @@
-# man快速入门
+<!-- # man快速入门 -->
+# Man Getting Started Tutoria
 
 这是一个man的使用教程, 同时给出了一个如何寻找帮助的例子.
 

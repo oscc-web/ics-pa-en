@@ -1,5 +1,6 @@
 
-# x86指令系统简介
+<!-- # x86指令系统简介 -->
+# Introduction to x86 instruction system
 
 i386手册有一章专门列出了所有指令的细节, 附录中的opcode map也很有用.
 在这里, 我们先对x86指令系统作一些简单的梳理.
@@ -101,7 +102,7 @@ x86把这些指令划分成不同的指令组(instruction group),
 我们以`mov`指令的opcode表为例来说明如何阅读:
 ```
      Opcode       Instruction       Clocks        Description
-                  
+
 < 1> 88 /r        MOV r/m8,r8       2/2           Move byte register to r/m byte
 < 2> 89 /r        MOV r/m16,r16     2/2           Move word register to r/m word
 < 3> 89 /r        MOV r/m32,r32     2/2           Move dword register to r/m dword
