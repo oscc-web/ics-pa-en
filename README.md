@@ -41,9 +41,9 @@
 >     * 2020 秋季学期, [蒋炎岩][jyy]老师: [课程资料][ics2020-mainpage], [B站录播][bilibili]
 > ---
 > * 2024/01/25
->  * 本讲义目前处于测试阶段, 在2024年秋季学期开始前, 将被视为往届讲义材料.
+>  * ~~本讲义目前处于测试阶段, 在2024年秋季学期开始前, 将被视为往届讲义材料.
 >    如果你是修读2024年秋季ICS课程的学生, 请勿使用本讲义代替2024年秋季ICS课程的PA实验讲义,
->    提交本实验内容将被视为没有提交. -->
+>    提交本实验内容将被视为没有提交.~~ -->
 
 > #### info::Latest News (please check at least once a day)
 > * [Academic Integrity (What is permissible and what is not)](http://integrity.mit.edu/)
