@@ -114,7 +114,7 @@
 > 那么过不了多久, 不但那些混到毕业的学生也没那么容易survive了,
 > 而且那些真正自己刻苦努力的学生, 他们的前途也会受到影响. -- etone -->
 
-#### hint::Some quotes
+> #### hint::Some quotes
 > * We are all living beings, taught from a young age to get the most out of the least effort, often forgetting what we truly want.
 >  I admit I am a perfectionist, but I believe everyone has a thirst for knowledge and a longing for truth in their hearts.
 >  The soul of "university" lies in transcending the mundane and timeless innocence and ideals.
